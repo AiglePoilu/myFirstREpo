@@ -1,4 +1,4 @@
-##titrePokemon 
+# Pokemon 
  
  Un jour je serai le meilleur dresseur
 Je me battrai sans répit
@@ -54,11 +54,11 @@ Yeah !
 
 
 
-
-
-
-[LE meilleur opening](https://www.youtube.com/watch?v=jVm1NbrXaXc)
-
-
 ![dracaufeux](https://assets.pokemon.com/assets/cms2/img/pokedex/full/359.png)
 
+
+`int main()
+  cout<<"J'adore pokemon"<<endl
+  return 0;
+`
+  
