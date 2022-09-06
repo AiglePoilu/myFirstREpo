@@ -57,8 +57,9 @@ Yeah !
 ![dracaufeux](https://assets.pokemon.com/assets/cms2/img/pokedex/full/359.png)
 
 
-`int main()
-  cout<<"J'adore pokemon"<<endl
-  return 0;
-`
+```c++
+int main(){
+  cout<<"J'adore pokemon"<<endl;
+}
+```
   
